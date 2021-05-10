@@ -8,12 +8,15 @@
 
 В результате тестирования выявлены следующие дефекты:
 * Валидные и не валидные ключи не соответствуют тому, что указанно в руководстве использования
+   https://github.com/VAGOgrigoryan/KeyValidator/issues/1
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Инструкция по установке OpenJDK11 
+  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
 * Руководство использования приложения KeyValidator
+  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 В качестве тестовых данных использовались данные:
 * Руководство использования приложения KeyValidator
